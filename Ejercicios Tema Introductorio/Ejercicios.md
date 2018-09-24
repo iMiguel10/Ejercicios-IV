@@ -22,7 +22,7 @@ Entonces:
 
 Orden: `egrep '^flags.*(vmx|svm)' /proc/cpuinfo`  
 El procesador es:  Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz  
-![Salida de la orden](https://github.com/iMiguel10/Ejercicios-IV/tree/master/Ejercicios-Tema-Introductorio/Ejercicio3.png)
+![Salida de la orden](https://github.com/iMiguel10/Ejercicios-IV/blob/master/Ejercicios%20Tema%20Introductorio/Ejercicio3.PNG)
 
 ---
 
