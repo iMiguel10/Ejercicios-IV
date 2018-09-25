@@ -27,5 +27,14 @@ El procesador es:  Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
 ---
 
 ### 4.1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
+ Si hago `kvm-ok` sale:  
 
+> INFO: /dev/kvm does not exist  
+> HINT:   sudo modprobe kvm_intel  
+> INFO: For more detailed results, you should run this as root  
+> HINT:   sudo /usr/sbin/kvm-ok  
+
+Si hago esto `sudo modprobe kvm_intel` o `sudo /usr/sbin/kvm-ok`  :  
+> modprobe: ERROR: ../libkmod/libkmod.c:586 kmod_search_moddep() could not open moddep file '/lib/modules/4.4.0-17134-Microsoft/modules.dep.bin'  
+> modprobe: FATAL: Module kvm_intel not found in directory /lib/modules/4.4.0-17134-Microsoft
 ---
