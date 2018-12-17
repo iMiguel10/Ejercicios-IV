@@ -3,7 +3,7 @@
 
 ### 1. Darse de alta en algún servicio PaaS tal como Heroku, zeit, BlueMix u OpenShift.
 
-![Ejercicio1](https://github.com/iMiguel10/Ejercicios-IV/blob/master/Ejercicios%20Despliegue%20aplicaciones%20en%20la%20nube/Ejercicio1.PNG)
+![Ejercicio1](https://github.com/iMiguel10/Ejercicios-IV/blob/master/Ejercicios%20Desplegando%20aplicaciones%20en%20la%20nube/Ejercicio1.PNG)
 
 ---
 
